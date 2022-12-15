@@ -48,6 +48,6 @@ static const uint8_t brightness_alpha_lut[][LUT_MAX] = {
 	{78, 0x00}
 };
 
-int expo_map_dim_level(int level, struct dsi_display *display, bool skip_update);
+int expo_map_dim_level(int level, struct dsi_display *display);
 
 #endif /* SDE_EXPO_DIM_LAYER_H */
