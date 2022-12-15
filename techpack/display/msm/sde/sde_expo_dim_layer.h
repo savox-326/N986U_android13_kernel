@@ -18,7 +18,7 @@
 #ifndef SDE_EXPO_DIM_LAYER_H
 #define SDE_EXPO_DIM_LAYER_H
 
-#define DIM_THRES_LEVEL 78
+#define DIM_THRES_LEVEL 88
 
 enum {
 	BRIGHTNESS = 0,
